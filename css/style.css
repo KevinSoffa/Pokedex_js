@@ -30,7 +30,7 @@ main {
     bottom: 55%;
     left: 50%;
     transform: translate(-65%, 20%);
-    height: 12%;
+    height: 15%;
 }
 
 .pokemon__data {
