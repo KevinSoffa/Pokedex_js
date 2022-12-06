@@ -1,5 +1,5 @@
 # Pokedex_js
-Pokedex feita com JavaScript CSS HTML5 | Comunicação com a API do Pókemon
+Pokédex feita com JavaScript CSS HTML5 | Comunicação com a API do Pokémon
 
 <h2>Tela Principal</h2>
 <p>Você pode fazer toda a pesquisa aqui</p>
