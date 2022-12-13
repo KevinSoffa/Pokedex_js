@@ -9,5 +9,5 @@ Pokédex feita com JavaScript CSS HTML5 | Comunicação com a API do Pokémon
 <p>Você pode pesquisar pelo ID do Pókemon ou digitar seu nome</p>
 <img src="https://github.com/KevinSoffa/imagens/blob/pokedex/Pesquisa.png">
 <hr>
-<h3>Link API</h3>
+<h3>Link API Pókemon</h3>
 https://pokeapi.co
